@@ -6,7 +6,7 @@ colnames(reservation_r) <- tolower(colnames(reservation_r))
 colnames(order_info_r) <- tolower(colnames(order_info_r))
 colnames(item_r) <- tolower(colnames(item_r))
 
-
+eksql!!
 #---------------------------------------------------
 
 # 7.1	dplyr 패키지 설치와 파이프 연산자
